@@ -57,6 +57,9 @@
 A free Japanese text editor for Windows
 
 ## Hot topic
+※補足:このlocal sakura editorは自分用の64bit版バイナリ作成するためのものであり、無保証・ノークレーム・無対応となります。
+大本はgithubにあるsakura editorからcloneしたものになります。
+
 Project(カンバン)運用を始めます。
 
 - [Projects](https://github.com/orgs/sakura-editor/projects)
